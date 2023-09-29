@@ -1,0 +1,19 @@
+/*Challenge 1*/
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+  /*Challenge 2*/
+  #css{
+    font-variant: small-caps;
+    font-weight: 900;
+    font-style: oblique;
+  }
+  /*Challenge 3*/
+  #html{
+    font-size: 15px;
+  }
+  #css{
+    font-size: 15px;
+  }
+  #js{
+    font-size: 15px;
+  }
+  
